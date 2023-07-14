@@ -1,4 +1,5 @@
-Certainly! Here's the updated code for the `ClockPainter` class along with its explanation in a README file:
+#Flutter Analog Clock
+Clean and fully customizable analog clock widget.
 
 ```dart
 /// ClockPainter Class
